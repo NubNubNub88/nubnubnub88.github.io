@@ -2,3 +2,8 @@ title: SEのテック＆仮想通貨メモ
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-paginate
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
