@@ -1,0 +1,22 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* 記事本文のデザイン調整 */
+body {
+    line-height: 1.8;
+    font-size: 16px;
+    color: #333;
+}
+
+h1, h2, h3 {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 0.5em;
+    margin-top: 1.5em;
+}
+
+/* 広告の視認性向上 */
+.ad-container {
+    margin: 20px 0;
+    text-align: center;
+}
