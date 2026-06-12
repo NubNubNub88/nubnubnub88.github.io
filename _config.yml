@@ -1,8 +1,7 @@
 title: SEのテック＆仮想通貨メモ
+author: Your Name
+description: エンジニア視点での技術メモと投資情報を発信中。
+theme: minima
 plugins:
-  - jekyll-paginate
-
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-paginate
+  - jekyll-feed
   - jekyll-seo-tag
